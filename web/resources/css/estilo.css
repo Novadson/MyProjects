@@ -1,0 +1,62 @@
+.moldura{
+    color:red;
+    text-align: center;
+    font-family: arial;
+    font-size:40px;
+}
+.topo{
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    background:red;
+}
+
+.cabecalho{
+    position: absolute;
+    top: 20px;
+    width: 1300px;
+    height: 100px;
+    left:28px;
+    background-color:#b689b0;
+}
+.h1{
+    text-align: center; 
+    font-family: arial;
+    font-size:40px;
+    line-height: 35px;
+}
+.menu{
+    position: absolute;
+    top: 127px;
+    width: 1300px;
+    height: 90px;
+    left:28px;
+    background-color:#46073e;
+}
+ul{
+    text-decoration: none;
+}
+.nav{
+    position: absolute;
+    top: 225px;
+    width: 789px;
+    height: 510px;
+    left:285px;
+    background-color:#b689b0;
+}
+.conteudo1{
+    position: absolute;
+    top: 225px;
+    width: 245px;
+    height: 510px; 
+    left:28px;
+    background-color:#b689b0;
+}
+.conteudo2{
+    position: absolute;
+    top: 225px;
+    width: 245px;
+    height: 510px; 
+    left:1086px;
+    background-color:#b689b0;
+}
